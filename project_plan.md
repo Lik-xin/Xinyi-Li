@@ -119,6 +119,4 @@ By the Week 6 check-in, I expect to have a first-pass Streamlit app running loca
 
 For evaluation, I expect to have at least 10 to 12 cases in a draft test set, plus an initial scoring rubric for escalation correctness, grounding, and unsupported claims. I also expect to be able to run at least one side-by-side comparison between the baseline and the final design on several risky cases, especially refund, security, and legal-escalation scenarios.
 
-## 9. Pair Request
 
-I am not requesting a pair for this project.
